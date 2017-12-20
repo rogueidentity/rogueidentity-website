@@ -1,6 +1,6 @@
 ---
-name: Identity and Management Access Integrations
-subtitle: Identity and Management Access Integrations
+name: Identity and Access Management Integrations
+subtitle: Identity and Access Management Integrations
 external_url: 
 image_path: /images/clients/IAMintegrations.jpg
 ---
