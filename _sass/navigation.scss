@@ -56,7 +56,7 @@ nav {
 	a {
 		margin: 0 3px;
 		padding: 20px 10px;
-		color: rgba(255, 255, 255, 0.8);
+		color: #7f1010;
 		transition: 0.2s ease-in-out;
 		display: none;
 		font-size: 1rem;
@@ -86,7 +86,7 @@ nav {
 	}
 
 	a:hover {
-		color: #fff;
+		color: #107f7f;
 
 		@media #{$mid-point} {
 			border-bottom: 2px solid rgba(255, 255, 255, 0.6);
@@ -108,6 +108,6 @@ nav {
 	}
 
 	a.active {
-		color: #fff;
+		color: #7f1010;
 	}
 }

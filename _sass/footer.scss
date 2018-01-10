@@ -2,18 +2,18 @@ footer {
 	@extend section;
 	padding: 100px 0 50px 0;
 	position: relative;
-	background: $html-background-color;
-	color: #fff;
+	background: #eee;
+	color: #7f1010;
 
 	&,
 	a {
-		color: #999;
+		color: #107f7f;
 	}
 
 	h2 {
 		font-size: 1.4em;
 		margin: 30px 0;
-		color: #ccc;
+		color: #7f1010;
 	}
 
 	.footer-columns {
@@ -26,7 +26,7 @@ footer {
 		text-decoration: none;
 
 		&:hover {
-			color: #fff;
+			color: #7f1010;
 		}
 	}
 

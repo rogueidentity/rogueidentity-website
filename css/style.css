@@ -99,7 +99,7 @@ ul.shortcode-list i {
   font-size: 2.57143rem;
   width: 2.57143rem;
   height: 2.57143rem;
-  color: #fff;
+  color: #7f1010;
   display: inline-block;
   padding: 15px;
   -moz-border-radius: 50%;
@@ -189,13 +189,13 @@ ul.shortcode-list i {
 .button {
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #fff;
-  background: #5C0C0C;
-  border: 2px solid #5C0C0C;
+  color: #7f1010;
+  background: #fff;
+  border: 2px solid #7f1010;
 }
 
 .button:hover {
-  background-color: #5C0C0C;
+  background-color: #fff;
 }
 
 .button.boxed {

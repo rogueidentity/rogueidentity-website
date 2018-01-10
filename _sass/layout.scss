@@ -14,7 +14,7 @@
 }
 
 header {
-	color: #fff;
+	color: #7f1010;
 	padding: 20px 0;
 	position: absolute;
 	top: 0;
@@ -22,7 +22,7 @@ header {
 	width: 100%;
 
 	a {
-		color: #fff;
+		color: #7f1010;
 		text-decoration: none;
 		z-index: 1;
 		position: relative;
@@ -74,7 +74,7 @@ section {
 	}
 
 	&.hero {
-		color: #ffffff;
+		color: #7f1010;
 		background: $brand-color;
 		text-align: left;
 		margin-top: -100px;
@@ -90,17 +90,17 @@ section {
 
 		p {
 			font-size: 1.8rem;
-			color: #fff;
+			color: #107f7f;
 		}
 
 		a:not(.button) {
-			color: #ffffff;
+			color: #7f1010;
 			font-style: italic;
 		}
 	}
 
 	&.alternate {
-		background: #eee;
+		background: #fff;
 	}
 }
 
@@ -108,23 +108,23 @@ section {
 	padding: 13px 38px;
 	border-radius: 3px;
 	display: inline-block;
-	color: $brand-color;
+	color: #7f1010;
 	text-decoration: none;
 	cursor: pointer;
 	margin: 20px 0 0 0;
-	border: 1px solid #fff;
+	border: 1px solid #107f7f;
 	background: #fff;
 	text-decoration: none !important;
 
 	&:hover {
 		background: rgba(255, 255, 255, 0.3);
-		color: #fff;
+		color: #107f7f;
 	}
 
 	&:active {
 		opacity: 1;
 		background: rgba(255, 255, 255, 0.1);
-		color: #fff;
+		color: #7f1010;
 		transform: translateY(1px);
 	}
 }
@@ -171,7 +171,7 @@ section {
 		margin: 20px;
 		border-radius: 5px;
 		text-align: left;
-		border: 1px solid $brand-color;
+		border: 1px solid #107f7f;
 		line-height: 0;
 
 		@media #{$tablet} {
@@ -216,12 +216,12 @@ section {
 
 	.name {
 		font-size: 1.3rem;
-		color: $brand-color;
+		color: #107f7f;
 	}
 
 	.position {
 		margin-top: 5px;
-		color: #fff;
+		color: #7f1010;
 	}
 
 	.filler {
@@ -238,10 +238,10 @@ section {
 }
 
 .patterned {
-	background: #222 url($pattern);
+	background: #eee url($pattern);
 
 	&,
 	p {
-		color: #fefefe;
+		color: #7f1010;
 	}
 }

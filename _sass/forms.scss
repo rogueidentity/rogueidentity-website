@@ -1,17 +1,17 @@
 input[type=submit] {
-	color: #fff;
+	color: #7f1010;
 	text-decoration: none;
 	padding: 20px 30px;
 	border-radius: 3px;
 	transition: 0.2s ease-in-out;
-	border: 1px solid $brand-color;
+	border: 1px solid #7f1010;
 	background: $brand-color;
 	cursor: pointer;
 }
 
 input[type=submit]:hover {
-	border: 1px solid $brand-color;
-	background: $secondary-brand-color;
+	border: 1px solid #7f1010;
+	background: #fff;
 }
 
 input[type=submit]:active {

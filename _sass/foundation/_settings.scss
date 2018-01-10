@@ -118,7 +118,7 @@ $jet         : #999;
 // $black       : #000000;
 
 // We use these as default colors throughout
-$primary-color: #5C0C0C;
+$primary-color: #7f1010;
 // $secondary-color: #e7e7e7;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
@@ -201,7 +201,7 @@ $screen: "only screen";
 // $header-font-family: $body-font-family;
 $header-font-weight: 600;
 // $header-font-style: normal;
-$header-font-color: #333;
+$header-font-color: #7f1010;
 // $header-line-height: 1.4;
 $header-top-margin: 0;
 $header-bottom-margin: rem-calc(15);
@@ -1415,13 +1415,13 @@ $topbar-link-padding: ($topbar-height / 5);
 
 // Style the top bar dropdown elements
 // $topbar-dropdown-bg: $oil;
-$topbar-dropdown-link-color: #ccc;
-$topbar-dropdown-link-color-hover: #fff;
+$topbar-dropdown-link-color: #7f1010;
+$topbar-dropdown-link-color-hover: #7f1010;
 // $topbar-dropdown-link-bg: $oil;
-$topbar-dropdown-link-bg-hover: #444;
+$topbar-dropdown-link-bg-hover: #fff;
 // $topbar-dropdown-link-weight: $font-weight-normal;
 // $topbar-dropdown-toggle-size: 5px;
-$topbar-dropdown-toggle-color: #999;
+$topbar-dropdown-toggle-color: #fff;
 // $topbar-dropdown-toggle-alpha: 0.4;
 
 // $topbar-dropdown-label-color: $monsoon;
